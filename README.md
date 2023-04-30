@@ -1,6 +1,6 @@
 # Todo-EF-API-UI
 
-This is a simple Todo web application built using .NET Core 3.1.32 and Entity Framework, with a web API backend, with SQLite as DataLayer anda  Console Application front-end.
+This is a simple Todo web application built using .NET Core 3.1.32 and Entity Framework, with a web API backend, with SQLite as DataLayer and a Console Application front-end.
 
 Using Repository Pattern with Dependency Injection Implemented.
 
@@ -24,7 +24,7 @@ Using Repository Pattern with Dependency Injection Implemented.
 
 ## Getting Started
 
-To run this application locally, you will need to have Node.js and .NET Core 3.1 installed on your machine.
+To run this application locally, you will need to have NET Core 3.1 installed on your machine.
 
 1.  Clone the repository:
     
