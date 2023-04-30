@@ -18,8 +18,6 @@ Using Repository Pattern with Dependency Injection Implemented.
 ## Features
 
 -   Create, read, update, and delete tasks in a todo list
--   Mark tasks as completed
--   Filter tasks by completed status
 -   Search tasks by title
 
 ## Getting Started
